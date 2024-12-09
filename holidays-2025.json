@@ -1,0 +1,332 @@
+[
+    {
+        "index": 1,
+        "month": "January",
+        "day": "1",
+        "year": "2025",
+        "image": "new-years-day.jpg",
+        "title": "New Year's Day",
+        "description": "Celebration of the first day of the year.",
+        "holidayType": "Regular Holiday"
+    },
+    {
+        "index": 2,
+        "month": "January",
+        "day": "20",
+        "year": "2025",
+        "image": "martin-luther-king-day.jpg",
+        "title": "Martin Luther King Jr. Day",
+        "description": "Honoring the civil rights leader's birthday.",
+        "holidayType": "Public Holiday"
+    },
+    {
+        "index": 3,
+        "month": "January",
+        "day": "25",
+        "year": "2025",
+        "image": "chinese-new-year.jpg",
+        "title": "Chinese New Year",
+        "description": "Celebration of the Lunar New Year.",
+        "holidayType": "Special Holiday"
+    },
+    {
+        "index": 4,
+        "month": "February",
+        "day": "14",
+        "year": "2025",
+        "image": "valentines-day.jpg",
+        "title": "Valentine's Day",
+        "description": "Celebration of love and affection between intimate partners.",
+        "holidayType": "Special Observance"
+    },
+    {
+        "index": 5,
+        "month": "February",
+        "day": "17",
+        "year": "2025",
+        "image": "presidents-day.jpg",
+        "title": "Presidents' Day",
+        "description": "A U.S. holiday honoring all presidents, particularly George Washington.",
+        "holidayType": "Public Holiday"
+    },
+    {
+        "index": 6,
+        "month": "February",
+        "day": "25",
+        "year": "2025",
+        "image": "edsa-revolution.jpg",
+        "title": "EDSA People Power Revolution",
+        "description": "A peaceful revolution in the Philippines.",
+        "holidayType": "Special Holiday"
+    },
+    {
+        "index": 7,
+        "month": "March",
+        "day": "17",
+        "year": "2025",
+        "image": "st-patricks-day.jpg",
+        "title": "St. Patrick's Day",
+        "description": "Celebration of Irish culture, commemorating Saint Patrick.",
+        "holidayType": "Special Observance"
+    },
+    {
+        "index": 8,
+        "month": "April",
+        "day": "9",
+        "year": "2025",
+        "image": "araw-ng-kagitingan.jpg",
+        "title": "Araw ng Kagitingan",
+        "description": "A day to honor Filipino soldiers during World War II.",
+        "holidayType": "National Holiday"
+    },
+    {
+        "index": 9,
+        "month": "April",
+        "day": "17",
+        "year": "2025",
+        "image": "maundy-thursday.jpg",
+        "title": "Maundy Thursday",
+        "description": "A Christian observance commemorating the Last Supper.",
+        "holidayType": "Religious Holiday"
+    },
+    {
+        "index": 10,
+        "month": "April",
+        "day": "18",
+        "year": "2025",
+        "image": "good-friday.jpg",
+        "title": "Good Friday",
+        "description": "Commemorates the crucifixion of Jesus Christ.",
+        "holidayType": "Religious Holiday"
+    },
+    {
+        "index": 11,
+        "month": "April",
+        "day": "20",
+        "year": "2025",
+        "image": "eid-al-fitr.jpg",
+        "title": "Eid al-Fitr",
+        "description": "Celebration marking the end of Ramadan.",
+        "holidayType": "Religious Holiday"
+    },
+    {
+        "index": 12,
+        "month": "May",
+        "day": "1",
+        "year": "2025",
+        "image": "labor-day.jpg",
+        "title": "Labor Day",
+        "description": "A day to honor and recognize the American labor movement.",
+        "holidayType": "National Holiday"
+    },
+    {
+        "index": 13,
+        "month": "May",
+        "day": "25",
+        "year": "2025",
+        "image": "eid-al-adha.jpg",
+        "title": "Eid al-Adha",
+        "description": "A Muslim festival commemorating the willingness of Ibrahim to sacrifice his son.",
+        "holidayType": "Religious Holiday"
+    },
+    {
+        "index": 14,
+        "month": "May",
+        "day": "11",
+        "year": "2025",
+        "image": "mothers-day.jpg",
+        "title": "Mother's Day",
+        "description": "A day honoring mothers and motherhood.",
+        "holidayType": "Special Observance"
+    },
+    {
+        "index": 15,
+        "month": "June",
+        "day": "12",
+        "year": "2025",
+        "image": "independence-day-ph.jpg",
+        "title": "Independence Day (Philippines)",
+        "description": "Commemoration of the Philippines' declaration of independence.",
+        "holidayType": "National Holiday"
+    },
+    {
+        "index": 16,
+        "month": "June",
+        "day": "19",
+        "year": "2025",
+        "image": "juneteenth.jpg",
+        "title": "Juneteenth",
+        "description": "Celebration of the emancipation of enslaved African Americans.",
+        "holidayType": "Public Holiday"
+    },
+    {
+        "index": 17,
+        "month": "June",
+        "day": "15",
+        "year": "2025",
+        "image": "fathers-day.jpg",
+        "title": "Father's Day",
+        "description": "A day to honor fathers and fatherhood.",
+        "holidayType": "Special Observance"
+    },
+    {
+        "index": 18,
+        "month": "July",
+        "day": "4",
+        "year": "2025",
+        "image": "independence-day-us.jpg",
+        "title": "Independence Day",
+        "description": "Commemoration of the Declaration of Independence in the U.S.",
+        "holidayType": "National Holiday"
+    },
+    {
+        "index": 19,
+        "month": "August",
+        "day": "31",
+        "year": "2025",
+        "image": "national-heroes-day-ph.jpg",
+        "title": "National Heroes Day (Philippines)",
+        "description": "A day to honor the national heroes of the Philippines.",
+        "holidayType": "National Holiday"
+    },
+    {
+        "index": 20,
+        "month": "August",
+        "day": "21",
+        "year": "2025",
+        "image": "ninoy-aquino-day.jpg",
+        "title": "Ninoy Aquino Day",
+        "description": "Commemoration of the assassination of Benigno Aquino Jr.",
+        "holidayType": "National Holiday"
+    },
+    {
+        "index": 21,
+        "month": "September",
+        "day": "1",
+        "year": "2025",
+        "image": "labor-day-us.jpg",
+        "title": "Labor Day (U.S.)",
+        "description": "A day to honor the American labor movement.",
+        "holidayType": "Public Holiday"
+    },
+    {
+        "index": 22,
+        "month": "October",
+        "day": "31",
+        "year": "2025",
+        "image": "halloween.jpg",
+        "title": "Halloween",
+        "description": "Celebration of all things spooky and festive.",
+        "holidayType": "Special Observance"
+    },
+    {
+        "index": 23,
+        "month": "November",
+        "day": "1",
+        "year": "2025",
+        "image": "all-saints-day.jpg",
+        "title": "All Saints' Day",
+        "description": "Honoring all saints, known and unknown.",
+        "holidayType": "Religious Holiday"
+    },
+    {
+        "index": 24,
+        "month": "November",
+        "day": "2",
+        "year": "2025",
+        "image": "all-souls-day.jpg",
+        "title": "All Souls' Day",
+        "description": "A day to remember and pray for the souls of the deceased.",
+        "holidayType": "Religious Holiday"
+    },
+    {
+        "index": 25,
+        "month": "November",
+        "day": "11",
+        "year": "2025",
+        "image": "veterans-day.jpg",
+        "title": "Veterans Day",
+        "description": "A U.S. holiday to honor military veterans.",
+        "holidayType": "National Holiday"
+    },
+    {
+        "index": 26,
+        "month": "November",
+        "day": "27",
+        "year": "2025",
+        "image": "thanksgiving-day.jpg",
+        "title": "Thanksgiving Day",
+        "description": "A day for giving thanks for the harvest and blessings of the past year.",
+        "holidayType": "Public Holiday"
+    },
+    {
+        "index": 27,
+        "month": "November",
+        "day": "28",
+        "year": "2025",
+        "image": "black-friday.jpg",
+        "title": "Black Friday",
+        "description": "A major shopping day in the U.S. after Thanksgiving.",
+        "holidayType": "Special Observance"
+    },
+    {
+        "index": 28,
+        "month": "November",
+        "day": "30",
+        "year": "2025",
+        "image": "bonifacio-day-ph.jpg",
+        "title": "Bonifacio Day (Philippines)",
+        "description": "Honoring Andres Bonifacio, a national hero in the Philippines.",
+        "holidayType": "National Holiday"
+    },
+    {
+        "index": 29,
+        "month": "December",
+        "day": "8",
+        "year": "2025",
+        "image": "immaculate-conception.jpg",
+        "title": "Feast of the Immaculate Conception",
+        "description": "Celebrating the conception of the Virgin Mary without original sin.",
+        "holidayType": "Religious Holiday"
+    },
+    {
+        "index": 30,
+        "month": "December",
+        "day": "24",
+        "year": "2025",
+        "image": "christmas-eve.jpg",
+        "title": "Christmas Eve",
+        "description": "Celebration of the evening before Christmas.",
+        "holidayType": "Religious Holiday"
+    },
+    {
+        "index": 31,
+        "month": "December",
+        "day": "25",
+        "year": "2025",
+        "image": "christmas-day.jpg",
+        "title": "Christmas Day",
+        "description": "Celebration of the birth of Jesus Christ.",
+        "holidayType": "Religious Holiday"
+    },
+    {
+        "index": 32,
+        "month": "December",
+        "day": "30",
+        "year": "2025",
+        "image": "rizal-day.jpg",
+        "title": "Rizal Day",
+        "description": "Commemoration of the execution of José Rizal, a national hero of the Philippines.",
+        "holidayType": "National Holiday"
+    },
+    {
+        "index": 33,
+        "month": "December",
+        "day": "31",
+        "year": "2025",
+        "image": "new-years-eve.jpg",
+        "title": "New Year's Eve",
+        "description": "The final day of the year, often celebrated with parties and fireworks.",
+        "holidayType": "Special Observance"
+    }
+]
