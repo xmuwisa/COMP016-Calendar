@@ -6,7 +6,7 @@
         "year": "2025",
         "image": "new-years-day.jpg",
         "title": "New Year's Day",
-        "description": "Celebration of the first day of the year.",
+        "description": "New Year's Day, celebrated on January 1st, marks the beginning of a new calendar year and is universally recognized as a time for renewal, fresh starts, and hope for the future. The holiday is celebrated with various traditions worldwide, such as fireworks displays, grand feasts, and social gatherings. Many people use this time to reflect on the past year, make resolutions for personal growth, and celebrate with family and friends. It’s a joyful occasion to embrace new opportunities, with an emphasis on leaving behind old habits and setting goals for the year ahead.",
         "holidayType": "Regular Holiday"
     },
     {
@@ -16,7 +16,7 @@
         "year": "2025",
         "image": "martin-luther-king-day.jpg",
         "title": "Martin Luther King Jr. Day",
-        "description": "Honoring the civil rights leader's birthday.",
+        "description": "Martin Luther King Jr. Day, observed on the third Monday of January, honors the life and accomplishments of Dr. Martin Luther King Jr., an influential leader in the American civil rights movement. The day celebrates his commitment to achieving racial equality, justice, and social change through nonviolent protest. It serves as a time for reflection on the progress made toward racial equality in the U.S., while also highlighting the work that still remains. Many use the day to participate in community service, educational events, and programs that promote unity and equality.",
         "holidayType": "Public Holiday"
     },
     {
@@ -26,7 +26,7 @@
         "year": "2025",
         "image": "chinese-new-year.jpg",
         "title": "Chinese New Year",
-        "description": "Celebration of the Lunar New Year.",
+        "description": "Chinese New Year, also known as the Lunar New Year or Spring Festival, is one of the most significant holidays in Chinese culture. It marks the first day of the lunar calendar and is celebrated with elaborate customs, including family reunions, special feasts, and cultural performances such as lion dances. Red envelopes filled with money are exchanged as symbols of good luck, and people honor their ancestors with offerings and prayers. The holiday emphasizes family bonds, renewal, and wishes for prosperity, happiness, and health in the coming year.",
         "holidayType": "Special Holiday"
     },
     {
@@ -36,7 +36,7 @@
         "year": "2025",
         "image": "valentines-day.jpg",
         "title": "Valentine's Day",
-        "description": "Celebration of love and affection between intimate partners.",
+        "description": "Valentine’s Day, celebrated annually on February 14th, is a day dedicated to expressing love and affection. It is widely recognized as a time to honor romantic relationships, but it has evolved into a broader celebration of love between friends, family, and even colleagues. People exchange heartfelt cards, flowers, chocolates, and gifts, and often partake in intimate dinners or social events. The holiday highlights the importance of expressing love and appreciation for the people who hold special meaning in our lives, making it a cherished occasion for many.",
         "holidayType": "Special Observance"
     },
     {
@@ -46,7 +46,7 @@
         "year": "2025",
         "image": "presidents-day.jpg",
         "title": "Presidents' Day",
-        "description": "A U.S. holiday honoring all presidents, particularly George Washington.",
+        "description": "Presidents' Day, officially known as Washington's Birthday, is a federal holiday observed on the third Monday of February in the United States. It honors the first U.S. president, George Washington, and all presidents who have served the nation. While the day originally commemorated Washington’s birthday, it has become a broader celebration of the American presidency. It is often marked by various educational activities that focus on American history, as well as sales events and public programs. Presidents' Day also reminds citizens of the importance of democracy and leadership.",
         "holidayType": "Public Holiday"
     },
     {
@@ -56,7 +56,7 @@
         "year": "2025",
         "image": "edsa-revolution.jpg",
         "title": "EDSA People Power Revolution",
-        "description": "A peaceful revolution in the Philippines.",
+        "description": "The EDSA People Power Revolution, celebrated annually on February 25th, is a historic day in the Philippines that marks the peaceful overthrow of the dictatorship of Ferdinand Marcos in 1986. It is a momentous occasion that symbolizes the power of unity, nonviolent protest, and collective action in achieving democratic change. The revolution is remembered as a pivotal moment in the nation's history, and the day is observed with ceremonies, reflections, and events that celebrate the values of freedom, democracy, and national pride. It is also a reminder of the importance of vigilance in protecting democratic institutions.",
         "holidayType": "Special Holiday"
     },
     {
@@ -66,7 +66,7 @@
         "year": "2025",
         "image": "st-patricks-day.jpg",
         "title": "St. Patrick's Day",
-        "description": "Celebration of Irish culture, commemorating Saint Patrick.",
+        "description": "St. Patrick's Day, celebrated on March 17th, is a global celebration of Irish culture, heritage, and the life of Saint Patrick, the patron saint of Ireland. Traditionally, the holiday honors Saint Patrick for bringing Christianity to Ireland, and it is marked by parades, wearing green, and enjoying Irish music, food, and drinks. The day is also a celebration of Irish pride, with many people worldwide taking part in the festivities, regardless of their Irish heritage. It’s a day of joy, unity, and cultural appreciation.",
         "holidayType": "Special Observance"
     },
     {
@@ -76,7 +76,7 @@
         "year": "2025",
         "image": "araw-ng-kagitingan.jpg",
         "title": "Araw ng Kagitingan",
-        "description": "A day to honor Filipino soldiers during World War II.",
+        "description": "Araw ng Kagitingan, or Day of Valor, is observed on April 9th in the Philippines to honor the bravery and sacrifices of Filipino soldiers who fought during World War II. It is particularly significant for remembering the infamous Bataan Death March, where thousands of Filipino and American soldiers endured immense hardships while being forced to march over 60 miles. This national holiday serves as a reminder of the valor, heroism, and resilience of the Filipino people during times of adversity.",
         "holidayType": "National Holiday"
     },
     {
@@ -86,7 +86,7 @@
         "year": "2025",
         "image": "maundy-thursday.jpg",
         "title": "Maundy Thursday",
-        "description": "A Christian observance commemorating the Last Supper.",
+        "description": "Maundy Thursday is a Christian observance that commemorates the Last Supper of Jesus Christ with his disciples, marking the beginning of the Easter Triduum. It is a day of solemn reflection on the themes of service, humility, and love. The tradition of washing the feet of others, which recalls Jesus' actions during the Last Supper, is observed in many Christian denominations. Maundy Thursday sets the stage for Good Friday and Easter, reminding Christians of Christ’s ultimate sacrifice for humanity.",
         "holidayType": "Religious Holiday"
     },
     {
@@ -96,7 +96,7 @@
         "year": "2025",
         "image": "good-friday.jpg",
         "title": "Good Friday",
-        "description": "Commemorates the crucifixion of Jesus Christ.",
+        "description": "Good Friday is one of the most solemn observances in Christianity, commemorating the crucifixion and death of Jesus Christ. It is a day of mourning, reflection, and prayer, as Christians remember the suffering and sacrifice that Jesus endured for the salvation of humanity. The day is marked by church services, scripture readings, and reenactments of the Passion of Christ. It is part of the Holy Week celebrations and culminates in the anticipation of Easter Sunday, celebrating Christ’s resurrection and victory over death.",
         "holidayType": "Religious Holiday"
     },
     {
@@ -106,7 +106,7 @@
         "year": "2025",
         "image": "eid-al-fitr.jpg",
         "title": "Eid al-Fitr",
-        "description": "Celebration marking the end of Ramadan.",
+        "description": "Eid al-Fitr is a major Islamic holiday that marks the end of Ramadan, a month of fasting, prayer, and reflection. It is a joyous occasion, celebrated with family gatherings, special meals, and giving of charity. Muslims express gratitude for the strength and discipline shown during Ramadan and seek forgiveness for their shortcomings. The day begins with a special prayer, followed by festivities that include visiting friends and relatives, sharing meals, and offering gifts, particularly to children. Eid al-Fitr is a celebration of faith, community, and renewal.",
         "holidayType": "Religious Holiday"
     },
     {
@@ -116,7 +116,7 @@
         "year": "2025",
         "image": "labor-day.jpg",
         "title": "Labor Day",
-        "description": "A day to honor and recognize the American labor movement.",
+        "description": "Labor Day, celebrated on May 1st, is a day to honor and recognize the contributions of the American labor movement. The holiday highlights the importance of workers’ rights and the ongoing struggle for fair wages, safe working conditions, and social justice. Across the U.S., parades, demonstrations, and other events are held to show solidarity with workers and their families. It is also a time to reflect on the progress made in labor rights and the continued efforts needed to protect and empower working people.",
         "holidayType": "National Holiday"
     },
     {
@@ -126,7 +126,7 @@
         "year": "2025",
         "image": "eid-al-adha.jpg",
         "title": "Eid al-Adha",
-        "description": "A Muslim festival commemorating the willingness of Ibrahim to sacrifice his son.",
+        "description": "Eid al-Adha is an important Muslim festival that commemorates the willingness of the Prophet Ibrahim (Abraham) to sacrifice his son in obedience to God. The holiday is marked by prayers, feasts, and the sharing of meat from sacrificial animals with the needy. It is a time of charity, reflection, and gratitude. Muslims around the world also gather with family and friends, exchange gifts, and reflect on the significance of sacrifice, faith, and submission to God’s will.",
         "holidayType": "Religious Holiday"
     },
     {
@@ -136,7 +136,7 @@
         "year": "2025",
         "image": "mothers-day.jpg",
         "title": "Mother's Day",
-        "description": "A day honoring mothers and motherhood.",
+        "description": "Mother's Day is a celebration of the love, sacrifice, and care that mothers provide. Observed on the second Sunday of May, it is a time for children and families to express appreciation for mothers and mother figures. Common traditions include giving flowers, cards, and gifts, as well as spending quality time together. The day emphasizes the nurturing role mothers play in the family and society, and it encourages gratitude for their unwavering support and devotion.",
         "holidayType": "Special Observance"
     },
     {
@@ -146,7 +146,7 @@
         "year": "2025",
         "image": "independence-day-ph.jpg",
         "title": "Independence Day (Philippines)",
-        "description": "Commemoration of the Philippines' declaration of independence.",
+        "description": "Independence Day in the Philippines is celebrated on June 12th to commemorate the country’s declaration of independence from Spanish colonial rule in 1898. It is a national holiday marked by patriotic events, including flag-raising ceremonies, parades, and cultural programs. The day serves as a reminder of the sacrifices made by Filipino heroes for freedom and national sovereignty, and it encourages reflection on the importance of independence, democracy, and unity.",
         "holidayType": "National Holiday"
     },
     {
@@ -156,7 +156,7 @@
         "year": "2025",
         "image": "juneteenth.jpg",
         "title": "Juneteenth",
-        "description": "Celebration of the emancipation of enslaved African Americans.",
+        "description": "Juneteenth, celebrated on June 19th, marks the emancipation of enslaved African Americans in the United States. It commemorates the day in 1865 when enslaved individuals in Texas were informed of their freedom, two years after the Emancipation Proclamation was issued. Juneteenth has become a celebration of African American culture, history, and achievements, marked by community events, educational programs, and reflection on the progress made in the ongoing fight for equality and justice.",
         "holidayType": "Public Holiday"
     },
     {
@@ -166,7 +166,7 @@
         "year": "2025",
         "image": "fathers-day.jpg",
         "title": "Father's Day",
-        "description": "A day to honor fathers and fatherhood.",
+        "description": "Father's Day, celebrated on the third Sunday in June, is a day to honor fathers and the vital role they play in the family and society. It is a time for children and families to express gratitude for the guidance, love, and support fathers provide. The day is marked by gifts, cards, and special family activities. Father's Day also encourages reflection on the importance of fatherhood and the significant impact fathers have on their children’s lives.",
         "holidayType": "Special Observance"
     },
     {
@@ -176,77 +176,7 @@
         "year": "2025",
         "image": "independence-day-us.jpg",
         "title": "Independence Day",
-        "description": "Commemoration of the Declaration of Independence in the U.S.",
-        "holidayType": "National Holiday"
-    },
-    {
-        "index": 19,
-        "month": "August",
-        "day": "31",
-        "year": "2025",
-        "image": "national-heroes-day-ph.jpg",
-        "title": "National Heroes Day (Philippines)",
-        "description": "A day to honor the national heroes of the Philippines.",
-        "holidayType": "National Holiday"
-    },
-    {
-        "index": 20,
-        "month": "August",
-        "day": "21",
-        "year": "2025",
-        "image": "ninoy-aquino-day.jpg",
-        "title": "Ninoy Aquino Day",
-        "description": "Commemoration of the assassination of Benigno Aquino Jr.",
-        "holidayType": "National Holiday"
-    },
-    {
-        "index": 21,
-        "month": "September",
-        "day": "1",
-        "year": "2025",
-        "image": "labor-day-us.jpg",
-        "title": "Labor Day (U.S.)",
-        "description": "A day to honor the American labor movement.",
-        "holidayType": "Public Holiday"
-    },
-    {
-        "index": 22,
-        "month": "October",
-        "day": "31",
-        "year": "2025",
-        "image": "halloween.jpg",
-        "title": "Halloween",
-        "description": "Celebration of all things spooky and festive.",
-        "holidayType": "Special Observance"
-    },
-    {
-        "index": 23,
-        "month": "November",
-        "day": "1",
-        "year": "2025",
-        "image": "all-saints-day.jpg",
-        "title": "All Saints' Day",
-        "description": "Honoring all saints, known and unknown.",
-        "holidayType": "Religious Holiday"
-    },
-    {
-        "index": 24,
-        "month": "November",
-        "day": "2",
-        "year": "2025",
-        "image": "all-souls-day.jpg",
-        "title": "All Souls' Day",
-        "description": "A day to remember and pray for the souls of the deceased.",
-        "holidayType": "Religious Holiday"
-    },
-    {
-        "index": 25,
-        "month": "November",
-        "day": "11",
-        "year": "2025",
-        "image": "veterans-day.jpg",
-        "title": "Veterans Day",
-        "description": "A U.S. holiday to honor military veterans.",
+        "description": "Independence Day, celebrated on July 4th, commemorates the adoption of the Declaration of Independence in 1776, when the Thirteen Colonies declared their independence from Britain. It is one of the most significant national holidays in the U.S., celebrated with fireworks, parades, barbecues, and various patriotic events. The day serves as a reminder of the nation’s founding principles of freedom and democracy, as well as the sacrifices made by those who fought for the country’s independence.",
         "holidayType": "National Holiday"
     },
     {
@@ -256,7 +186,7 @@
         "year": "2025",
         "image": "thanksgiving-day.jpg",
         "title": "Thanksgiving Day",
-        "description": "A day for giving thanks for the harvest and blessings of the past year.",
+        "description": "Thanksgiving Day, celebrated on the fourth Thursday of November, is a time for families and friends to come together and give thanks for the blessings of the past year. The day is traditionally marked by a festive meal, including turkey, stuffing, and pumpkin pie, along with prayers of gratitude for the harvest and the good fortune of the year. Rooted in the history of early settlers in America, Thanksgiving has evolved into a celebration of togetherness, generosity, and reflection on the things that truly matter. Many also use the day to volunteer and share with those less fortunate.",
         "holidayType": "Public Holiday"
     },
     {
@@ -266,7 +196,7 @@
         "year": "2025",
         "image": "black-friday.jpg",
         "title": "Black Friday",
-        "description": "A major shopping day in the U.S. after Thanksgiving.",
+        "description": "Black Friday, the day following Thanksgiving, marks the beginning of the holiday shopping season in the U.S. It is a day filled with significant sales, discounts, and promotions, with stores opening early and even running through the night. Many people line up for hours to take advantage of the biggest deals, while online retailers also offer steep discounts. Despite its commercial focus, Black Friday has become a cultural event, with families and friends often taking part in shopping excursions or starting their holiday preparations. It is a day that emphasizes consumerism but also offers opportunities for savings and gift-giving.",
         "holidayType": "Special Observance"
     },
     {
@@ -276,7 +206,7 @@
         "year": "2025",
         "image": "bonifacio-day-ph.jpg",
         "title": "Bonifacio Day (Philippines)",
-        "description": "Honoring Andres Bonifacio, a national hero in the Philippines.",
+        "description": "Bonifacio Day, observed on November 30th, is a national holiday in the Philippines that honors Andres Bonifacio, a key figure in the Philippine Revolution against Spanish colonial rule. Bonifacio is remembered for his courage, leadership, and determination in the fight for Filipino independence. On this day, Filipinos reflect on the values of bravery, unity, and national pride that Bonifacio embodied. The holiday is marked by commemorative events, including wreath-laying ceremonies at his monument and educational activities that highlight his contributions to the country’s freedom.",
         "holidayType": "National Holiday"
     },
     {
@@ -286,7 +216,7 @@
         "year": "2025",
         "image": "immaculate-conception.jpg",
         "title": "Feast of the Immaculate Conception",
-        "description": "Celebrating the conception of the Virgin Mary without original sin.",
+        "description": "The Feast of the Immaculate Conception, celebrated on December 8th, commemorates the belief that the Virgin Mary was conceived without original sin. This day is an important feast in the Catholic Church, particularly in countries with strong Catholic traditions. It is a day to honor the purity and holiness of Mary, who is venerated as the mother of Jesus Christ. Devotees attend Mass, participate in processions, and engage in acts of devotion to express their reverence. The feast also serves as a time for personal reflection on faith and the significance of Mary’s role in Christian teachings.",
         "holidayType": "Religious Holiday"
     },
     {
@@ -296,7 +226,7 @@
         "year": "2025",
         "image": "christmas-eve.jpg",
         "title": "Christmas Eve",
-        "description": "Celebration of the evening before Christmas.",
+        "description": "Christmas Eve, celebrated on December 24th, is the evening before Christmas Day, a time filled with anticipation and festive cheer. It is a moment for families and communities to come together, reflect on the birth of Jesus Christ, and prepare for the celebration of Christmas. In many cultures, Christmas Eve is marked by special church services, such as midnight Mass, as well as family gatherings, feasts, and the exchange of gifts. The night symbolizes the quiet waiting for the birth of Christ, and for many, it is one of the most cherished moments of the holiday season.",
         "holidayType": "Religious Holiday"
     },
     {
@@ -306,7 +236,7 @@
         "year": "2025",
         "image": "christmas-day.jpg",
         "title": "Christmas Day",
-        "description": "Celebration of the birth of Jesus Christ.",
+        "description": "Christmas Day, observed on December 25th, is one of the most widely celebrated holidays in the world, marking the birth of Jesus Christ. For Christians, it is a day to reflect on the significance of Christ’s birth and to celebrate the message of peace, hope, and goodwill that He brought to the world. The day is often celebrated with church services, festive meals, gift-giving, and acts of kindness. While rooted in Christian traditions, Christmas has become a global cultural celebration, characterized by decorations, music, and the spirit of giving, making it a joyous occasion for people of all backgrounds.",
         "holidayType": "Religious Holiday"
     },
     {
@@ -316,7 +246,7 @@
         "year": "2025",
         "image": "rizal-day.jpg",
         "title": "Rizal Day",
-        "description": "Commemoration of the execution of José Rizal, a national hero of the Philippines.",
+        "description": "Rizal Day, celebrated on December 30th, honors the life and legacy of José Rizal, a national hero in the Philippines. Rizal was a nationalist, intellectual, and writer whose actions and writings inspired the movement for Philippine independence from Spanish colonial rule. The day is marked by ceremonies and tributes, including flag-raising and wreath-laying at his monument in Luneta Park. It serves as a reminder of his sacrifices for the nation and encourages Filipinos to uphold the values of justice, freedom, and patriotism that Rizal championed.",
         "holidayType": "National Holiday"
     },
     {
@@ -326,7 +256,7 @@
         "year": "2025",
         "image": "new-years-eve.jpg",
         "title": "New Year's Eve",
-        "description": "The final day of the year, often celebrated with parties and fireworks.",
+        "description": "New Year's Eve, celebrated on December 31st, marks the final day of the year and the countdown to the arrival of a new year. It is a time for reflection on the past year’s events, achievements, and challenges, while eagerly anticipating the opportunities and possibilities that the new year will bring. The evening is often filled with parties, family gatherings, fireworks, and various festive activities, as people celebrate the end of one chapter and the beginning of another. Traditions vary by country, but the common theme is one of renewal, hope, and a fresh start.",
         "holidayType": "Special Observance"
     }
 ]

@@ -15,19 +15,24 @@ fetch("holidays-2025.json")
 function renderCalendar() {
     if (isGridView) {
         renderMonthGrid();
+        document.getElementById("monthName").style.display = "none";
+        document.querySelector(".buttonContainer").style.display = "none";
+        document.getElementById("calendarContainer").style.display = "none";
     } else {
         renderSingleMonth();
+        document.getElementById("monthName").style.display = "block";
+        document.querySelector(".buttonContainer").style.display = "flex";
+        document.getElementById("calendarContainer").style.display = "block";
     }
 }
 
-// Render the single month calendar
 function renderSingleMonth() {
     const firstDay = new Date(year, currentMonth, 1);
     const lastDay = new Date(year, currentMonth + 1, 0);
     const daysInMonth = lastDay.getDate();
 
     const monthName = firstDay.toLocaleString("default", { month: "long" });
-    document.getElementById("monthName").textContent = `${monthName} ${year}`;
+    document.getElementById("monthName").textContent = `${monthName}`;
 
     const calendarBody = document.querySelector("#calendarTable tbody");
     calendarBody.innerHTML = "";
@@ -45,13 +50,35 @@ function renderSingleMonth() {
         cell.textContent = day;
 
         const holiday = holidays.find(
-            (h) =>
-                h.day == day &&
-                h.month ===
-                    firstDay.toLocaleString("default", { month: "long" })
+            (h) => h.day == day && h.month === monthName
         );
         if (holiday) {
             cell.classList.add("holiday");
+
+            // Add the holidayType class to the cell
+            switch (holiday.holidayType.toLowerCase()) {
+                case "regular holiday":
+                    cell.classList.add("regular");
+                    break;
+                case "public holiday":
+                    cell.classList.add("public");
+                    break;
+                case "special holiday":
+                    cell.classList.add("special");
+                    break;
+                case "special observance":
+                    cell.classList.add("observance");
+                    break;
+                case "religious holiday":
+                    cell.classList.add("religious");
+                    break;
+                case "national holiday":
+                    cell.classList.add("national");
+                    break;
+                default:
+                    break;
+            }
+
             cell.addEventListener("click", () => {
                 window.location.href = `holiday.html?holiday=${holiday.index}`;
             });
@@ -85,11 +112,11 @@ function renderMonthGrid() {
         const monthName = firstDay.toLocaleString("default", { month: "long" });
 
         const miniCalendar = document.createElement("div");
-        miniCalendar.classList.add("mini-calendar");
-        miniCalendar.id = `mini-calendar-${month}`;
+        miniCalendar.classList.add("miniCalendar");
+        miniCalendar.id = `miniCalendar-${month}`;
 
         const header = document.createElement("div");
-        header.classList.add("mini-calendar-header");
+        header.classList.add("miniCalendar-header");
         header.textContent = monthName;
         miniCalendar.appendChild(header);
 
@@ -121,6 +148,30 @@ function renderMonthGrid() {
             );
             if (holiday) {
                 cell.classList.add("holiday");
+
+                // Add the holidayType class to the cell
+                switch (holiday.holidayType.toLowerCase()) {
+                    case "regular holiday":
+                        cell.classList.add("regular");
+                        break;
+                    case "public holiday":
+                        cell.classList.add("public");
+                        break;
+                    case "special holiday":
+                        cell.classList.add("special");
+                        break;
+                    case "special observance":
+                        cell.classList.add("observance");
+                        break;
+                    case "religious holiday":
+                        cell.classList.add("religious");
+                        break;
+                    case "national holiday":
+                        cell.classList.add("national");
+                        break;
+                    default:
+                        break;
+                }
             }
 
             row.appendChild(cell);
@@ -142,11 +193,12 @@ function renderMonthGrid() {
         miniCalendar.addEventListener("click", () => {
             currentMonth = month;
             isGridView = false;
+            squareIcon.style.display = "none";
+            gridIcon.style.display = "block";
             renderCalendar();
         });
     }
 
-    // Show the grid and hide the single month table
     document.getElementById("calendarTable").style.display = "none";
     document.getElementById("monthGrid").style.display = "grid";
 }
@@ -165,15 +217,20 @@ function navigateMonth(direction) {
     }
 }
 
+feather.replace();
+
 function toggleView() {
-    const toggleButton = document.getElementById("toggleButton");
+    const gridIcon = document.getElementById("gridIcon");
+    const squareIcon = document.getElementById("squareIcon");
 
     isGridView = !isGridView;
 
     if (isGridView) {
-        toggleButton.textContent = "🌞";
+        squareIcon.style.display = "block";
+        gridIcon.style.display = "none";
     } else {
-        toggleButton.textContent = "🌙";
+        squareIcon.style.display = "none";
+        gridIcon.style.display = "block";
     }
 
     renderCalendar();
