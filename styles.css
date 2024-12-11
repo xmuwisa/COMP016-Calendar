@@ -157,6 +157,7 @@ body {
     border: 1px solid transparent;
     width: 100%;
     height: 20px;
+    transition: all 0.3s;
 }
 .holiday {
     background-color: #f4f4f4;
@@ -176,31 +177,31 @@ body {
     background-color: #fcfcfc;
 }
 
-.holiday.regular {
+.regular {
     color: #f39c12;
 }
 
-.holiday.sepcialNonWorking {
+.specialNonWorking {
     color: #1465bd;
 }
 
-.holiday.specialWorking {
+.specialWorking {
     color: #b9401b;
 }
 
-.holiday.specialObservance {
+.specialObservance {
     color: #319131;
 }
 
-.holiday.religious {
+.religious {
     color: #552285;
 }
 
-.holiday.national {
+.national {
     color: #7a1919;
 }
 
-.holiday.season {
+.season {
     color: #196f7a;
 }
 
@@ -219,6 +220,31 @@ body {
     font-weight: bold;
     padding: 0 0 30px 0;
     transition: all 0.3s;
+}
+
+.holidayTypesList {
+    font-size: 13px;
+    font-weight: normal;
+    column-gap: 15px;
+    display: flex;
+    margin: 50px;
+    border-radius: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    cursor: alias;
+    transition: all 0.3s;
+}
+
+.holidayTypesList .holidayType {
+    opacity: 70%;
+    transition: all 0.3s;
+}
+
+.holidayTypesList .holidayType:hover {
+    opacity: 100%;
 }
 
 .monthGrid {
@@ -265,5 +291,9 @@ body {
     .footer {
         font-size: 12px;
         gap: 2px;
+    }
+
+    .holidayTypesList {
+        font-size: 10px;
     }
 }
