@@ -1,60 +1,149 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
 body {
-    width: 100vw;
-    font-family: Arial, sans-serif;
+    width: 100%;
+    font-family: "Poppins", sans-serif;
     background-color: #fdfdfd;
+    color: #313131;
+    margin: 0;
+    padding: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin: 0;
-    padding: 0;
+    box-sizing: border-box;
+    transition: all 0.3s;
 }
 
-.holiday-container {
+.holidayContainer {
+    width: 100%;
+    max-width: 1020px;
+    padding: 50px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    transition: all 0.3s;
+}
+
+.holidayContainer {
     width: 100%;
     max-width: 1020px;
     background-color: #fdfdfd;
     padding: 50px;
-    margin: 50px 20px;
-    border: 1px solid #ddd;
-    border-radius: 20px;
+    transition: all 0.3s;
 }
 
-.holiday-title {
-    font-size: 2rem;
-    color: #333;
-}
-
-.holiday-date {
-    font-size: 1.2rem;
-    color: #666;
-}
-
-.holiday-image {
+.holidayHeader {
     width: 100%;
-    height: auto;
-    border-radius: 8px;
-    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    margin-bottom: 30px;
 }
 
-.holiday-description {
-    font-size: 1rem;
-    color: #444;
-    line-height: 1.5;
-    margin-top: 20px;
+.holidayTitle {
+    font-size: 50px;
+    margin: 0;
+    line-height: 40px;
+    transition: all 0.3s;
 }
 
-.back-button {
-    display: inline-block;
-    margin-top: 30px;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 4px;
+.holidayDate {
+    font-size: 23px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.holidayType {
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    border-radius: 100px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    transition: all 0.3s;
+    cursor: alias;
+}
+
+.holidayType:hover {
+    border: 1px solid #f39c12;
+}
+
+.holidayDescription {
+    margin-top: 40px;
+    font-size: 18px;
+    text-align: justify;
+    transition: all 0.3s;
+}
+
+.buttonContainer {
+    width: 100%;
+    max-width: 1020px;
+    padding: 50px 50px 0;
+    box-sizing: border-box;
+}
+
+.backButton {
+    opacity: 50%;
+    color: #f39c12;
     cursor: pointer;
+    text-decoration: none;
+    transition: all 0.3s;
 }
 
-.back-button:hover {
-    background-color: #0056b3;
+img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 20px;
+    transition: all 0.3s;
+}
+
+img:hover {
+    border-radius: 0;
+    scale: 1.04;
+}
+
+.backButton:hover {
+    border-radius: 10px;
+    opacity: 100%;
+}
+
+a {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.footer {
+    margin-top: 50px;
+    padding: 50px 0px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    font-size: small;
+}
+
+@media (max-width: 600px) {
+    .footer {
+        font-size: 12px;
+        gap: 2px;
+    }
+
+    .holidayType {
+        font-size: 10px;
+    }
+
+    .holidayDate {
+        margin-top: 5px;
+        font-size: 20px;
+    }
+
+    .holidayTitle {
+        font-size: 35px;
+    }
+
+    .holidayDescription {
+        font-size: 16px;
+    }
 }

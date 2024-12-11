@@ -55,22 +55,24 @@ function renderSingleMonth() {
         if (holiday) {
             cell.classList.add("holiday");
 
-            // Add the holidayType class to the cell
             switch (holiday.holidayType.toLowerCase()) {
                 case "regular holiday":
                     cell.classList.add("regular");
                     break;
-                case "public holiday":
-                    cell.classList.add("public");
+                case "special (non-working) holiday":
+                    cell.classList.add("specialNonWorking");
                     break;
-                case "special holiday":
-                    cell.classList.add("special");
+                case "special (working) holiday":
+                    cell.classList.add("specialWorking");
                     break;
                 case "special observance":
-                    cell.classList.add("observance");
+                    cell.classList.add("specialObservance");
                     break;
                 case "religious holiday":
                     cell.classList.add("religious");
+                    break;
+                case "season":
+                    cell.classList.add("season");
                     break;
                 case "national holiday":
                     cell.classList.add("national");
@@ -149,22 +151,24 @@ function renderMonthGrid() {
             if (holiday) {
                 cell.classList.add("holiday");
 
-                // Add the holidayType class to the cell
                 switch (holiday.holidayType.toLowerCase()) {
                     case "regular holiday":
                         cell.classList.add("regular");
                         break;
-                    case "public holiday":
-                        cell.classList.add("public");
+                    case "special (non-working) holiday":
+                        cell.classList.add("specialNonWorking");
                         break;
-                    case "special holiday":
-                        cell.classList.add("special");
+                    case "special (working) holiday":
+                        cell.classList.add("specialWorking");
                         break;
                     case "special observance":
-                        cell.classList.add("observance");
+                        cell.classList.add("specialObservance");
                         break;
                     case "religious holiday":
                         cell.classList.add("religious");
+                        break;
+                    case "season":
+                        cell.classList.add("season");
                         break;
                     case "national holiday":
                         cell.classList.add("national");

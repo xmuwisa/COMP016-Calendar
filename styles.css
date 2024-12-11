@@ -57,7 +57,7 @@ body {
 #calendarContainer {
     border: 1px solid #ddd;
     padding: 25px;
-    margin: 0px 25px;
+    margin: 0px 50px;
     border-radius: 25px;
     transition: all 0.3s;
 }
@@ -180,15 +180,15 @@ body {
     color: #f39c12;
 }
 
-.holiday.public {
+.holiday.sepcialNonWorking {
     color: #1465bd;
 }
 
-.holiday.special {
+.holiday.specialWorking {
     color: #b9401b;
 }
 
-.holiday.observance {
+.holiday.specialObservance {
     color: #319131;
 }
 
@@ -198,6 +198,10 @@ body {
 
 .holiday.national {
     color: #7a1919;
+}
+
+.holiday.season {
+    color: #196f7a;
 }
 
 .footer {
